@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Robo Kittens are Easy to Maintain (Some Assembly Required)
 
 ![droidtocat](https://octodex.github.com/images/droidtocat.png)
 {: .center}
