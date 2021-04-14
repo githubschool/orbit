@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Welcome to the zoo!
+Too many meowths to feed.
 
 ![poptocat](https://octodex.github.com/images/poptocat.png)
 {: .center}
