@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Blast off for GitHub!
+A boring, generic description.
 
 ![jetpacktocat](https://octodex.github.com/images/jetpacktocat.png)
 {: .center}
