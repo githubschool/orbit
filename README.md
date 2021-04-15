@@ -3,7 +3,7 @@
 - Class Date: April 14 - 15, 2021
 - Facilitator: @ericalloyd
 
-## Talk to Us!!
+## Talk to Me!!
 
 If you have a question, or need assistance during class, **please create an issue and mention @ericalloyd**.
 
